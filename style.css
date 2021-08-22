@@ -1,0 +1,137 @@
+*{
+    box-sizing:border-box;
+}
+#header{
+    background-color: #39ac73;
+    color: #ffffff;
+    width: 1350px;
+    height: 390px;
+}
+button{
+    float: right;
+    width: 100px;
+	height: 30px;
+	border: 1px solid white;
+    border-radius: 5px;
+    background-color: rgb(2, 18, 27);
+    margin-right: 50px;
+   
+}
+a{
+    color: #ffffff;
+    text-decoration: none;
+}
+b{
+    margin-left: 50px;
+}
+form select{
+	width: 150px;
+	height: 27px;
+	margin-top: 5px;
+	border: 1px solid ;
+	border-radius: 7px;
+}
+form input[type=date]{
+	width: 150px;
+	height: 27px;
+	border: 1px solid ;
+	border-radius: 7px;
+}
+form input[type=submit]{
+	width: 90px;
+	height: 27px;
+	margin-top: 5px;
+	border: 1px solid;
+    border-radius: 4px;
+    background-color: rgb(2, 18, 27);
+    color: #ffffff;
+    
+}
+#fheader{
+      background-color: rgb(2, 18, 27);
+      margin-top: 100px;
+      height: 133px;
+      text-align: center;
+      margin-left: 250px;
+      margin-right: 250px;
+      padding-top: 20px;
+}
+#hcontent{
+    background-color: white;
+    border: 1px solid black;
+    margin-left: 250px;
+    margin-right: 234px;
+}
+#hcontent table{
+    display: block;
+    text-decoration: none;
+}
+#footer{
+    background-color: #006666;
+    color: white;
+    height: 350px;
+}
+#copyright{
+   background-color: #003333;
+   color: white;
+   height: 80px;
+}
+#form1{
+    padding-top: 10px;
+}
+#form1 input[type=text]{
+	width: 250px;
+	height: 27px;
+    border-radius: 7px;
+}
+#form2 input[type=text]{
+	width: 250px;
+	height: 27px;
+    border-radius: 7px;
+    margin-top: 20px;
+    margin-left: 20px;
+}
+#form2 i{
+    margin-left: 20px;
+}
+#copyright b{
+    float: right;
+    margin-right: 20px;
+    margin-bottom: 30px;
+ }
+table td{
+      padding-left: 60px;
+}
+
+#fcontent{
+    width: 1333px;
+    height: 250px;
+    background-color: #b3cccc;
+   
+}
+#fform{
+    float: right;
+    margin-top: 30px;
+    margin-right: 200px;
+}
+#fform input[type=text]{
+    width: 250px;
+	height: 27px;
+    border-radius: 7px;
+    margin-top: 20px;
+  
+}
+#ccontent{
+    padding-left: 70px;
+    text-align: center;
+    padding-bottom: 20px;
+    
+}
+#table{
+    background-color: #339966;
+    margin-right: 95px;
+    overflow: auto;
+}
+#table tr{
+    
+}
